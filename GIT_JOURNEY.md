@@ -3,7 +3,7 @@
 ## Student Information
 - Name: Haseetha Ahaladhini Tummala
 - Student ID: 23P31A1228
-- Repository: https://github.com/Haseetha-03/git-solved-23P31A1228.git
+- Repository: https://github.com/Haseetha-03/git-solved-23P31A1228
 - Date Started: 27-10-2025
 - Date Completed: 27-10-2025
 
